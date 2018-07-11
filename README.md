@@ -12,8 +12,8 @@ Put file Code.php to /app/comp/ folder or put any where you need and change name
 ## Description
 This class allows:
 - write not escaped html code between start() and end() methods
-- not thinking about /t and /s characters
-- not thinking about offset before code block
+- not think about /t and /s characters
+- not think about offset before code block
 
 ## Usage examples
 
