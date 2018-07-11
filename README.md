@@ -76,7 +76,7 @@ will produce
       <header><h1>Article head</h1></header>
       <p>As you see we have offset of the code from the begin of the code, that helper auto strip before output</p>
       <div class="example">
-<pre><code class="php">
+<pre><code>
 &lt;script&gt;
   for(var i=0; i<10; i++) {
     console.log('Hello world');
