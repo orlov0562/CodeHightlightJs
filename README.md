@@ -2,7 +2,7 @@
 Helper for Yii2 that format source code for highlightjs integration
 
 ## Requirements
-To highlight code you stil need integrate highlightjs via external integration. 
+To highlight code you still need integrate highlightjs via external integration. 
 
 For example via [https://github.com/nezhelskoy/yii2-highlight](https://github.com/nezhelskoy/yii2-highlight)
 
